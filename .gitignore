@@ -1,0 +1,31 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/kotlinScripting.xml
+/.idea/misc.xml
+/.idea/deploymentTargetDropDown.xml
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Build output
+build/
+
+# Xcode
+xcuserdata/
+
+# Cocoapods
+Pods/
+
+# Apk signing
+*.jks
+keystore.properties
